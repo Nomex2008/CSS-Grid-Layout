@@ -1,0 +1,16 @@
+Part 1
+
+CSS Grid Layout. Кроссбраузерность. Grid и Flex. Основные понятия.
+https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr&index=32
+
+Part 2
+
+CSS Grid Layout. Свойства определения сетки grid-template и другие
+https://www.youtube.com/watch?v=FPL4hnmA84A&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr&index=32
+
+Part 3
+CSS Grid Layout. Свойства элементов grid сетки grid-row grid-column order gap и другие
+https://www.youtube.com/watch?v=3AatkxA3LhY&list=PLM6XATa8CAG4F9nAIYNS5oAiPotxwLFIr&index=33
+
+Part 4
+

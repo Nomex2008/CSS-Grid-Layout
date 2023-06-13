@@ -1,0 +1,40 @@
+.logo {
+    color: #fff;
+
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    
+
+    border: 2px solid black;
+    background: url('../img/fon/1616682341_32-p-krasivii-fon-dlya-prevyu-38.jpg') ;
+}
+.title {
+    font-size: 24px;
+    padding: 7px 0 25px 0;
+    letter-spacing: 2em;
+
+}
+.subTitle {
+    padding: 0 0 10px 0;
+}
+.subTitle__part {
+    font-size: 20px;
+    padding: 0 0 20px 0;
+    letter-spacing: 2em;
+}
+.subTitle__text {
+    font-size: 20px;
+    letter-spacing: 0.1em;
+}
+
+/*Part 1*/
+/*part 2*/
+.regional-names{
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    font-family: 'Marcellus', serif;
+
+    margin: 20px 0;
+}
